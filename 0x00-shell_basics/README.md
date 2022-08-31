@@ -1,1 +1,1 @@
-Task 5. Display current directories
+Task 6
