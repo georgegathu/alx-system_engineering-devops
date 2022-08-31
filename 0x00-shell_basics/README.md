@@ -1,1 +1,1 @@
-My first delete
+Bye bye My first directory 
